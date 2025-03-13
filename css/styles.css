@@ -27,5 +27,15 @@ button:hover {
   background-color: #0056b3;
 }
 
+.redButton{
+  background-color: red;
+}
+
+div{
+  background-color: azure;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 24px;
+}
 
 
